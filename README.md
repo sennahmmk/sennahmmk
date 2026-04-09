@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019 <br>📚 Always learning, always growing!<br>🗣️ Languages: NL & ENG <br>🎲 Fun fact: I once broke a piece of code so badly that it accidentally worked better than intended! From that, I learned that sometimes you need to erase everything to build something even better.</p>
+<p align="left">✨ Creating bugs since 2019 <br>📚 Always learning, always growing!<br>🗣️ Languages: NL & ENG </p>
 
 ###
 
