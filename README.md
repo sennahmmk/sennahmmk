@@ -1,8 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Senna</h1>
 
 ###
 
-<p align="left">Hi, I'm Senna from The Netherlands!</p>
+<p align="left">
+  Hi, I'm Senna from The Netherlands. I mainly work on full-stack web development, from clean frontends to backend systems.
+</p>
 
 ###
 
@@ -19,33 +21,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS badge" />
+  <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua badge" />
+  <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5 badge" />
+  <img src="https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS badge" />
+  <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/PHP-161b22?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP badge" />
+  <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL badge" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python badge" />
+  <img src="https://img.shields.io/badge/Discord.js-161b22?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js badge" />
+  <img src="https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android badge" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-161b22?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine badge" />
 </div>
 
 ###
